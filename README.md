@@ -2,7 +2,7 @@
 
 Welcome to the official repository of [HowManyOfMes.com](https://howmanyofmes.com) 🎉  
 
-[HowManyOfMes.com](https://howmanyofmes.com) is a free online tool that helps you discover **how common your name is**, explore **population statistics**, and uncover **fun data-driven demographic insights**.  
+HowManyOfMes is a free online tool that helps you discover **how common your name is**, explore **population statistics**, and uncover **fun data-driven demographic insights**.  
 
 ## 🔹 Features  
 - Instantly check how many people share your name  
