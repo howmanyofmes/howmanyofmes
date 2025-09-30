@@ -1,16 +1,16 @@
-## Hi there 👋
+# HowManyOfMes.com  
 
-<!--
-**howmanyofmes/howmanyofmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official repository of [HowManyOfMes.com](https://howmanyofmes.com) 🎉  
 
-Here are some ideas to get you started:
+[HowManyOfMes.com](https://howmanyofmes.com) is a free online tool that helps you discover **how common your name is**, explore **population statistics**, and uncover **fun data-driven demographic insights**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Features  
+- Instantly check how many people share your name  
+- Explore U.S. population trends and demographics  
+- Learn about identity, uniqueness, and statistics  
+- Free, accurate, and easy-to-use  
+
+## 🔗 Visit the Website  
+👉 [https://howmanyofmes.com](https://howmanyofmes.com)  
+
+---
